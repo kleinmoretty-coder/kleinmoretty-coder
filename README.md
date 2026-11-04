@@ -1,4 +1,4 @@
-<img width="1200" height="220" alt="klein_moretty_transparente" src="https://github.com/user-attachments/assets/d84c96e7-90dd-4c7b-b26a-aca4592cd488" />
+<img width="1200" height="220" alt="klein_moretty_transparente" src="https://github.com/user-attachments/assets/4388342c-fe7c-46c9-87d1-b09eae9e9bcb" />
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Banner animado Klein moretty, ondas roxas">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -38,7 +38,23 @@
        <path d="M0,186.9 L10,188.2 L20,189.6 L30,190.9 L40,192.1 L50,193.2 L60,194.2 L70,195.2 L80,196.0 L90,196.6 L100,197.2 L110,197.6 L120,197.8 L130,197.9 L140,197.8 L150,197.5 L160,197.1 L170,196.5 L180,195.7 L190,194.8 L200,193.8 L210,192.6 L220,191.2 L230,189.8 L240,188.2 L250,186.6 L260,184.9 L270,183.1 L280,181.2 L290,179.4 L300,177.5 L310,175.6 L320,173.8 L330,172.0 L340,170.2 L350,168.5 L360,166.9 L370,165.4 L380,164.0 L390,162.8 L400,161.6 L410,160.7 L420,159.9 L430,159.2 L440,158.7 L450,158.4 L460,158.2 L470,158.3 L480,158.4 L490,158.8 L500,159.3 L510,160.0 L520,160.8 L530,161.8 L540,162.8 L550,164.0 L560,165.3 L570,166.7 L580,168.1 L590,169.6 L600,171.1 L610,172.7 L620,174.3 L630,175.8 L640,177.3 L650,178.8 L660,180.2 L670,181.6 L680,182.8 L690,184.0 L700,185.1 L710,186.0 L720,186.8 L730,187.5 L740,188.1 L750,188.5 L760,188.8 L770,188.9 L780,188.9 L790,188.8 L800,188.5 L810,188.1 L820,187.6 L830,187.0 L840,186.2 L850,185.4 L860,184.5 L870,183.6 L880,182.6 L890,181.5 L900,180.5 L910,179.4 L920,178.4 L930,177.4 L940,176.4 L950,175.5 L960,174.6 L970,173.8 L980,173.2 L990,172.6 L1000,172.1 L1010,171.7 L1020,171.5 L1030,171.4 L1040,171.4 L1050,171.6 L1060,171.9 L1070,172.4 L1080,172.9 L1090,173.6 L1100,174.4 L1110,175.4 L1120,176.4 L1130,177.5 L1140,178.7 L1150,180.0 L1160,181.3 L1170,182.7 L1180,184.1 L1190,185.5 L1200,186.9 L1210,188.2 L1220,189.6 L1230,190.9 L1240,192.1 L1250,193.2 L1260,194.2 L1270,195.2 L1280,196.0 L1290,196.6 L1300,197.2 L1310,197.6 L1320,197.8 L1330,197.9 L1340,197.8 L1350,197.5 L1360,197.1 L1370,196.5 L1380,195.7 L1390,194.8 L1400,193.8 L1410,192.6 L1420,191.2 L1430,189.8 L1440,188.2 L1450,186.6 L1460,184.9 L1470,183.1 L1480,181.2 L1490,179.4 L1500,177.5 L1510,175.6 L1520,173.8 L1530,172.0 L1540,170.2 L1550,168.5 L1560,166.9 L1570,165.4 L1580,164.0 L1590,162.8 L1600,161.6 L1610,160.7 L1620,159.9 L1630,159.2 L1640,158.7 L1650,158.4 L1660,158.2 L1670,158.3 L1680,158.4 L1690,158.8 L1700,159.3 L1710,160.0 L1720,160.8 L1730,161.8 L1740,162.8 L1750,164.0 L1760,165.3 L1770,166.7 L1780,168.1 L1790,169.6 L1800,171.1 L1810,172.7 L1820,174.3 L1830,175.8 L1840,177.3 L1850,178.8 L1860,180.2 L1870,181.6 L1880,182.8 L1890,184.0 L1900,185.1 L1910,186.0 L1920,186.8 L1930,187.5 L1940,188.1 L1950,188.5 L1960,188.8 L1970,188.9 L1980,188.9 L1990,188.8 L2000,188.5 L2010,188.1 L2020,187.6 L2030,187.0 L2040,186.2 L2050,185.4 L2060,184.5 L2070,183.6 L2080,182.6 L2090,181.5 L2100,180.5 L2110,179.4 L2120,178.4 L2130,177.4 L2140,176.4 L2150,175.5 L2160,174.6 L2170,173.8 L2180,173.2 L2190,172.6 L2200,172.1 L2210,171.7 L2220,171.5 L2230,171.4 L2240,171.4 L2250,171.6 L2260,171.9 L2270,172.4 L2280,172.9 L2290,173.6 L2300,174.4 L2310,175.4 L2320,176.4 L2330,177.5 L2340,178.7 L2350,180.0 L2360,181.3 L2370,182.7 L2380,184.1 L2390,185.5 L2400,186.9 L2400,240 L0,240 Z">
          <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="7s" repeatCount="indefinite" />
        </path>
-    </g>
-
-  </g>
 </svg>
+
+<div align="center">
+  <h2>Welcome to my GitHub profile</h2>
+  <p>Software Development · JavaScript · TypeScript · Databases</p>
+</div>About Me
+I am a Systems Analysis and Development student with a strong interest in building practical, well-structured software.
+
+My main focus is JavaScript, supported by TypeScript and SQL-based databases. I also have experience with Java, Python, and C, along with a solid introductory foundation in UI design.
+
+I enjoy turning ideas into functional projects and improving my technical skills through consistent hands-on development.
+<div align="center">
+  <h3>Core Technologies</h3>
+  <p><strong>JavaScript</strong> · <strong>TypeScript</strong> · <strong>SQL</strong></p>
+</div><div align="center">
+  <h3>Additional Knowledge</h3>
+  <p>Java · Python · C · UI Design Fundamentals</p>
+</div><div align="center">
+  <sub>Please feel free to explore my repositories and projects.</sub>
+</div>
