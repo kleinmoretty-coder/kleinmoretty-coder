@@ -41,20 +41,35 @@
 </svg>
 
 <div align="center">
+
   <h2>Welcome to my GitHub profile</h2>
   <p>Software Development · JavaScript · TypeScript · Databases</p>
-</div>About Me
+</div>
+
+### About Me
+
 I am a Systems Analysis and Development student with a strong interest in building practical, well-structured software.
 
-My main focus is JavaScript, supported by TypeScript and SQL-based databases. I also have experience with Java, Python, and C, along with a solid introductory foundation in UI design.
+My primary focus is **JavaScript**, alongside **TypeScript** and **SQL-based databases**. I also have experience with **Java, Python, and C**, as well as foundational training in **UI design**.
 
-I enjoy turning ideas into functional projects and improving my technical skills through consistent hands-on development.
+I enjoy turning ideas into functional projects and continuously developing my skills through hands-on experience.
+
+---
+
 <div align="center">
   <h3>Core Technologies</h3>
-  <p><strong>JavaScript</strong> · <strong>TypeScript</strong> · <strong>SQL</strong></p>
-</div><div align="center">
-  <h3>Additional Knowledge</h3>
-  <p>Java · Python · C · UI Design Fundamentals</p>
-</div><div align="center">
-  <sub>Please feel free to explore my repositories and projects.</sub>
+
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/SQL%20%26%20Databases-6D28D9?style=for-the-badge&amp;logoColor=white" alt="SQL and Databases" />
+  </p>
+
+  <sub>Additional knowledge: Java · Python · C · UI Design Fundamentals</sub>
+</div>
+
+---
+
+<div align="center">
+  <sub>Feel free to explore my repositories and projects.</sub>
 </div>
