@@ -63,9 +63,9 @@ I enjoy turning ideas into functional projects and continuously developing my sk
   <h3>Core Technologies</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/SQL%20%26%20Databases-6D28D9?style=for-the-badge&amp;logoColor=white" alt="SQL and Databases" />
+    <img src="https://img.shields.io/badge/JavaScript-D56B55?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-D56B55?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/SQL%20%26%20Databases-D56B55?style=for-the-badge&logoColor=white" alt="SQL and Databases" />
   </p>
 
   <sub>Additional knowledge: Java · Python · C · UI Design Fundamentals</sub>
