@@ -62,11 +62,7 @@ I enjoy turning ideas into functional projects and continuously developing my sk
 <div align="center">
   <h3>Core Technologies</h3>
 
-  <p>
-    <img src="./badges/javascript.svg" alt="JavaScript" />
-    <img src="./badges/typescript.svg" alt="TypeScript" />
-    <img src="./badges/sql-databases.svg" alt="SQL & Databases" />
-  </p>
+ 
   
   <sub>Additional knowledge: Java · Python · C · UI Design Fundamentals</sub>
 </div>
