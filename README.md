@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  <h2>Welcome to my GitHub profile</h2>
+  <h2>Building ideas into software.</h2>
   <p>Software Development · JavaScript · TypeScript · Databases</p>
 </div>
 
